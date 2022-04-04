@@ -10,4 +10,5 @@ Working Environment - Jupyter Notebook.
 
 Reference - PyPi.
 
+![QR Code](https://github.com/ahamedbasha-n/QR-Code-Generator/blob/main/QR%20Code%20Generator/project_video_qr.jpg)
 ---
